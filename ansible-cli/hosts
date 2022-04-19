@@ -1,0 +1,6 @@
+[debian]
+172.17.0.2 ansible_user=root
+[ubuntu]
+172.17.0.3 ansible_user=root
+[centos]
+172.17.0.4 ansible_user=root
